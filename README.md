@@ -10,6 +10,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
  ![](/Captura.PNG)
 ## Plantilla historia de uso
 ![](/image1.png)
+
 ![](/image2.png)
 ![](/image3.png)
 ![](/image4.png)
