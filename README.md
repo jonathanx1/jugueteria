@@ -85,7 +85,7 @@ Hasta Que cod>=1  Y cod<=5
 	Escribir ""
 	Escribir "producto                    cantidad"
 	Escribir jug " "   "                 "can
-	ttotal = can*pre
+	total = can*pre
 	pago[i]=total
 	Escribir "El total a pagar es: $" pago[i]=total
 	Escribir "----------------------------------------------"
