@@ -9,7 +9,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
  ## Diagrama de caso de uso
 ![](captura.png)
 ## Plantilla historia de uso
-![](/image11.png)
+![](/image1.png)
 
 ![](/image2.png)
 ![](/image3.png)
