@@ -184,17 +184,29 @@ System.out.println( "la ganacias del negocio fueron: "+ totalg);
 public class jugueteriaPOO
 
 {
+
    String jug;
+   
     String nombre;
+    
     String telefono;
+    
     String opc;
+    
     String color;
+    
     int cod;
+    
     int can;
+    
     int pre;
+    
     int total;
+    
     int id;
+    
     int totalg;
+    
 }
 
 import java.util.Scanner;
