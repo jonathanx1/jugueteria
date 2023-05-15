@@ -15,11 +15,11 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 ![](/image3.png)
 ![](/image4.png)
 ## Diagrama de flujo
-![](/image5.png)
-![](/image6.png)
-![](/image7.png)
- ![](/Diagrama.png)
- ![](/Diagrama2.png)
+![](/image5.PNG)
+![](/image6.PNG)
+![](/image7.PNG)
+![](/Diagrama.png)
+![](/Diagrama2.png)
  
 Entender el anterior diagrama no debe presentar mayores problemas. Sin embargo, es conveniente realizar las siguientes
 aclaraciones y comentarios:
