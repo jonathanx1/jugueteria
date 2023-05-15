@@ -24,7 +24,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 Entender el anterior diagrama no debe presentar mayores problemas. Sin embargo, es conveniente realizar las siguientes
 aclaraciones y comentarios:
 
-• En el duagrana se puede visualizar tantos condicionales que son las opciones que aparecen anteriormente
+• En el diagrana se puede visualizar tantos condicionales que son las opciones que aparecen anteriormente
 
 • una pequeña parte no esta completa por temas tecnicos ya que hace falta mecionar que depende del resultado de opc se puede regresar al inicio com un ciclo
 • algunos cuadros representan datos alamcenados para las operaciones e imprimirlas com una factura por la compra
