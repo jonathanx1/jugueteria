@@ -20,6 +20,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 ![](/image7.png)
  ![](/Diagrama.png)
  ![](/Diagrama2.png)
+ 
 Entender el anterior diagrama no debe presentar mayores problemas. Sin embargo, es conveniente realizar las siguientes
 aclaraciones y comentarios:
 
