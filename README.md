@@ -8,7 +8,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
  • No se realiza validación de los datos. 
  ## Diagrama de caso de uso
  ![](/Captura.PNG)
- ![](/Diagrama.PNG)
+ ![](/Diagrama.png)
  ![](/Diagrama2.png)
 ## Plantilla historia de uso
 ![](/image1.png)
