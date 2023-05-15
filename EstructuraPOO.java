@@ -1,8 +1,17 @@
 //clase 1
 public class jugueteriaPOO
 {
-    String jug,nombre,telefono,opc, color;
-    int cod,can,pre,total,id,totalg;
+    String jug;
+    String nombre;
+    String telefono;
+    String opc;
+    String color;
+    int cod;
+    int can;
+    int pre;
+    int total;
+    int id;
+    int totalg;
 }
 //clase 2
 import java.util.Scanner;
