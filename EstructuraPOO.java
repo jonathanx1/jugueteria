@@ -12,6 +12,18 @@ public class jugueteriaPOO
     int total;
     int id;
     int totalg;
+    public jugueteriaPOO(String jug, String nombre, String telefono, String opc,int cod, int can, int pre,int total,int id,int totalg) {
+      this.jug = jug;
+      this.nombre = nombre;
+      this.telefono = telefono;
+      this.opc = opc;
+      this.cod=cod;
+      this.can=can;
+      this.pre=pre;
+      this.total=total;
+      this.id=id;
+      this.totalg=totalg;
+   }
 }
 //clase 2
 import java.util.Scanner;
